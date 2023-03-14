@@ -1,0 +1,11 @@
+
+X
+java:S1854
+";Remove this useless assignment to local variable "defecto".(œ‡âÓ8˜ĞŞæÈ0
+I
+java:S1481
+",Remove this unused "defecto" local variable.(œ‡âÓ8šĞŞæÈ0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤Ä´
+V	java:S125"<This block of commented-out lines of code should be removed.(ŒÅğîøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¤Ä´
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ß¤ÃÌ8û İæÈ0
